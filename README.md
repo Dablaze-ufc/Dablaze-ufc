@@ -1,10 +1,12 @@
 # Dablaze-ufc
 
-## Personal Details
+## Hi 
 - Name: Uchenna Chukwuwa Francis
 - Stack: Android Developer
 - Languages: English, Kotlin, Java
 - Contact Info: [E-Mail](Chukwuwauchenna@gmail.com), [Twitter](https://twitter.com/Android_Blaze), [LinkedIn](https://www.linkedin.com/in/uchenna-chukwuwa-android6).
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 ## What I do
 - Mentor
